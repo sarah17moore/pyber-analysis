@@ -7,6 +7,8 @@ This is where the overview will go
 ## Purpose
 This is where the purpose will go 
 
+![Total fare by city type screenshot](/analysis/PyBer_fare_summary.png)
+
 ---
 
 # Results
