@@ -1,24 +1,28 @@
 # pyber-analysis
+
 A classwork example in which data visualizations are created for a ride-sharing company
+
 ---
 # Overview
-This is where the overview will go
+Explain the background story and contextual information in this section. 
 
 ## Purpose
-This is where the purpose will go 
-
-![Total fare by city type screenshot](/analysis/PyBer_fare_summary.png)
+Explain the purpose of the new analysis in this section.
 
 ---
 
 # Results
+
+Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
 * Results
 * will
 * go 
 * here
 
+![Total fare by city type screenshot](/analysis/PyBer_fare_summary.png)
+
 # Summary
 
-I will summarize here
+Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
