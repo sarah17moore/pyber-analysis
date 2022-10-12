@@ -24,5 +24,9 @@ While these figures were helpful to paint a picture of underserved neighborhoods
 
 # Summary
 
-I would recommend to further incentivize rural ridesharing. Low fare earnings in rural areas are the start to a painful cycle in these areas: no drivers means no ride times available, no ride times available means that no one will seek a ridesharing service, no demand will further solidify the idea that no drivers are needed, which will result in low fares and wages, further driving drivers away from these areas. 
+I would first recommend to further incentivize drivers to join the rural ridesharing community. Low fare earnings in rural areas are the start to a painful cycle in these areas: no drivers means no ride times available, no ride times available means that no one will seek a ridesharing service, no demand will further solidify the idea that no drivers are needed, which will result in low fares and wages, further driving drivers away from these areas. 
+
+Next, I would recommend to pinpoint high volume times for each city type within a year timespan. This way localities can hire extra drivers to meet demand during these times. If rural residents are able to get rides in times of need, like during a high volume event, they will be more likely to use ridesharing services on occasion since they will see the service as an adequate option. 
+
+Lastly, I would recommend advertising to lower earning city types to gain reliable drivers and returning customers. Running a gamified advertisement or interactive incentive could assist lower earning city types while in a "growing phase". 
 
