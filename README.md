@@ -17,7 +17,7 @@ While these figures were helpful to paint a picture of underserved neighborhoods
 
 * The urban city type earns significantly more fares than suburban and rural city types every month in the sample. 
 * Urban city type earnings fluctuate between $1,500 and $2,500 while rural city type earnings fluctuate between $0 and $500. 
-* Urban city type top earnings are only 1/3 of urban city type lowest earnings. 
+* Rural city type top earnings are only 1/3 of urban city type lowest earnings. 
 * Suburban city type earnings fluctuate in a similar pattern as urban city type earnings, symbolizing that certain events, holidays, weather patterns, or traffic patterns may similarly impact urban and suburban citizens. While rural city type fluxtuations follow one peak in the last quarter of Februrary 2019 and one peak in the first quarter of Marth 2019, rural high fare times differ from urban and suburban high fare times. 
 
 ![Total fare by city type screenshot](/analysis/PyBer_fare_summary.png)
