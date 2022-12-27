@@ -1,6 +1,6 @@
 # pyber-analysis
 
-A classwork example in which data visualizations are created for a ride-sharing company
+A classwork example in which data visualizations are created for a ridesharing company using Matplotlib
 
 ---
 # Overview
